@@ -1,2 +1,12 @@
-I love Bangladesh
-I Love Canada
+git reset --soft HEAD^
+git reset HEAD^
+git reset --hard HEAD^
+
+git revert
+git checkout
+git reset
+git clean
+git rm
+git checkout commitID/HEAD-Number
+
+git remote -v //shows the remote along with the url
