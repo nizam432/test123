@@ -12,5 +12,4 @@ git checkout commitID/HEAD-Number
 git remote -v //shows the remote along with the url
 git remote add origin https://github.com/test123
 git push origin HEAD:master
-
-123
+git checkout -b "feature2"
